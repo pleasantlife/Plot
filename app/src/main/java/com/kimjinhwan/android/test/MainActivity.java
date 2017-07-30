@@ -9,5 +9,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        String hello = "hello";
+        String hi = "hi!";
+        String bye = "Bye";
+
+        String hell = "지옥에 온 걸 환영한다";
+        String git = "개자식!";
+
+
     }
 }
