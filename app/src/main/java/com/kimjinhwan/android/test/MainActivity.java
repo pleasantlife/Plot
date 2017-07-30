@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         String hell = "지옥에 온 걸 환영한다";
         String git = "개자식!";
 
+        String home = "집";
+
 
     }
 }
